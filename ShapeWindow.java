@@ -1,7 +1,4 @@
-/**
- * 
- */
-package project1;
+
 import bag.Bag; 
 import bag.BagInterface; 
 import CS2114.TextShape;
@@ -12,17 +9,9 @@ import CS2114.Button;
 
 import CS2114.WindowSide;
 import java.awt.Color;
-// Virginia Tech Honor Code Pledge:
-//
-// As a Hokie, I will conduct myself with honor
-//and integrity at all times.
-// I will not lie, cheat, or steal,
-//nor will I accept the actions of those who do.
-// -- Kirsten Chesley (kchesley888)
+
 /**
 *shape window class
-*@author Kirsten Chesley (kchesley888)
-*@version (2020-Feb-16)
 *creates window
 */
 public class ShapeWindow {
