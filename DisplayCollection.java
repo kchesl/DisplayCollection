@@ -1,22 +1,10 @@
-/**
- * 
- */
-package project1;
+
 import bag.Bag; 
 import bag.BagInterface; 
 
 import java.util.Random; 
-// Virginia Tech Honor Code Pledge:
-//
-// As a Hokie, I will conduct myself with honor 
-//and integrity at all times.
-// I will not lie, cheat, or steal, 
-//nor will I accept the actions of those who do.
-// -- Kirsten Chesley (kchesley888)
-/**
+
 *display collection class
-*@author Kirsten Chesley (kchesley888)
-*@version (2020-Feb-16)
 */
 public class DisplayCollection {
     /**
